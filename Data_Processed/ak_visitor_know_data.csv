@@ -1,0 +1,299 @@
+watercraft,invas,camp,remove,country_group,e_clean_1,e_clean_2,e_clean_3,e_clean_4,e_clean_5,not_clean_b,trip_desc,comm,count_day
+0,0,1,1,2,-99,1,2,-99,3,0,Air,Nome,"UnitedStates,Mexico"
+0,0,0,0,2,-99,-99,2,-99,-99,1,Air,Nome,-99
+1,0,0,0,1,"1,2",1,-99,-99,-99,1,-99,Nome,United States
+0,0,0,0,2,1,-99,2,-99,3,0,-99,Nome,"UnitedStates,Canada,HongKong"
+0,0,1,0,2,"1,3,2","1,4",2,-99,-99,1,Air,Nome,Belgium
+0,0,1,1,2,-99,-99,2,-99,-99,1,Air,Nome,"England,Mexico"
+0,0,1,0,2,1,-99,"3,2",-99,-99,1,NA,Nome,"England,Romania,Netherlands"
+0,0,0,1,2,1,-99,"3,2",-99,-99,1,Air,Nome,"Germany,Switzerland,Romania,SouthAfrica"
+1,0,0,0,2,-99,-99,-99,-99,"1,2",0,NA,Nome,-99
+0,0,0,0,2,1,1,1,1,-99,1,Air,Nome,"China,Colombia,Vietnam,Nepal"
+1,0,0,0,2,-99,-99,2,-99,1,0,Air,Nome,"UnitedKingdom,Mexico,CostaRica"
+0,0,0,0,2,-99,1,"3,2",1,-99,1,NA,Nome,"Canada,Austria"
+0,0,0,0,2,-99,-99,"1,2",-99,-99,1,Air,Nome,-55
+0,0,1,1,1,-99,2,"1,2",-99,"3,4",0,NA,Nome,United States
+1,0,1,0,2,1,-99,2,2,-99,1,NA,Nome,"United States, Mexico"
+-99,-99,-99,-99,2,-99,-99,-99,-99,-99,1,NA,Nome,Italy
+-99,-99,-99,-99,2,-99,-99,-99,-99,-99,1,Air,Nome,Europe
+0,0,1,0,1,-99,-99,-99,-99,-99,1,Air,Nome,UnitedStates
+0,0,0,0,2,-99,-99,-99,-99,"1,3,2",0,Air,Nome,"UnitedStates,Canada"
+0,-99,1,-99,1,1,-99,2,-99,-99,1,Air,Nome,UnitedStates
+0,0,0,0,1,-99,2,-99,-99,"1,3",0,NA,Nome,UnitedStates
+0,0,1,0,1,-99,-99,"3,2",-99,1,0,NA,Nome,UnitedStates
+0,0,1,0,1,-99,-99,-99,-99,"1,3,2,4",0,Air,Nome,United States
+0,0,0,1,2,1,1,1,-99,-99,1,Hurtigruten,Nome,"Iceland,Greenland,Canada"
+0,0,1,0,1,1,-99,2,1,-99,1,Hurtigruten,Nome,UnitedStates
+0,0,1,0,2,-99,-99,"3,2",-99,1,0,Holland America,Nome,-99
+0,1,1,0,3,-99,-99,-99,-99,"1,3,2",0,Holland America,Anchorage,"Norway,Iceland,Denmark,Greenland,UnitedStates,France,Canada"
+-99,-99,-99,-99,3,-99,-99,"1,3,2",-99,-99,1,Holland America,Anchorage,"Brazil,FrenchNewGuinea,Barbados,Argentina,Australia,Naumao,Iceland,England,Scotland"
+-99,-99,-99,-99,4,-99,-99,2,-99,-99,1,Holland America,Anchorage,"Canada,Greenland,Iceland,Chile,Argentina,Brazil,Ireland,England,Scotland,Trinidan-Tobago,Tortola,Antarctica"
+0,0,1,0,1,1,-99,-99,-99,-99,1,Holland America,Anchorage,United States
+0,1,0,0,3,-99,-99,"1,3,2",-99,-99,1,Holland America,Anchorage,"Guatemala,Chile,UnitedStates,Italy,Spain,Greece,Turkey,France,Malta,Croatia"
+0,-99,0,1,2,-99,-99,-99,-99,-99,1,Holland America,Anchorage,-55
+0,0,0,0,1,-99,-99,-99,-99,-99,1,Air,Anchorage,United States
+0,0,1,0,2,"1,4",1,"3,2",-99,-99,1,Holland America,Anchorage,Cuba
+0,0,0,0,4,-99,-99,2,"1,3",-99,1,Holland America,Anchorage,"United States, Canada, Panama, Puerto Rico, St. Thomas, St. Maarten, Mexico, Grand Turks, Jamaica, Costa Rica, Belize, Rothan, Guatemala"
+1,1,1,0,2,"1,3,4",-99,2,-99,-99,1,-99,Seward,"Canada,UnitedStates"
+0,0,0,0,3,-99,-99,2,-99,-99,1,-99,Seward,"Switzerland,France,Germany,Netherlands,Mexico"
+0,0,1,0,2,-99,-99,-99,-99,-99,1,-99,Seward,"United States, Canada"
+0,0,1,0,2,-99,-99,2,-99,"1,3,4",0,Alaska Marine Hiway,Seward,"United States, Canada"
+0,0,0,0,2,-99,-99,-99,-99,1,0,-99,Seward,-99
+1,1,1,1,2,-99,-99,-99,-99,-99,1,Air,Seward,"UnitedStates,Ireland,Scotland"
+0,0,0,0,2,-99,1,2,-99,"3,4",0,Hurtigruten,Nome,"United States, Canada"
+1,0,1,1,3,-99,"1,3",2,-99,-99,1,Hurtigruten,Nome,"UnitedStates,Canada,Vietnam,Cambodia,Laos,Italy,Slovenia,Croatia,Bosnia,Albania"
+0,0,0,0,4,-99,1,1,-99,-99,1,Holland America,Nome,"Norway, Finland, Spain, Greece, Israel, Germany, France, England, Wales, Scotland, Ireland, United States"
+1,0,1,1,2,1,-99,2,-99,"3,4",0,-77,Nome,Panama
+0,0,0,0,2,1,-99,"3,2",-99,-99,1,-77,Nome,"FrenchPolynesia,Samoa,Fiji"
+0,0,0,0,3,-99,1,"1,3,2",-99,-99,1,-77,Nome,"Scotland, Ireland, England, Spain, Portugal, Canada, Mexico"
+0,0,0,0,3,-99,-99,-99,-99,"1,3",0,-77,Nome,"UnitedStates,Canada,Norway,Iceland,UnitedKingdom,Netherlands"
+0,0,0,0,2,-99,-99,-99,-99,"1,2,4",0,-77,Nome,Mexico
+-99,-99,-99,-99,4,-99,-99,2,-99,"1,3",0,-77,Nome,"Italy,Spain,Portugal,Japan,Australia,NewZealand,Indonesia,Thailand,Peru,Argentina,Uruguay "
+0,0,0,0,2,1,-99,2,-99,-99,1,-77,Nome,-99
+0,0,0,1,3,-99,-99,"1,2",3,-99,1,-77,Nome,"Morocco,Egypt,Jordan,Italy,Portugal,Spain,England,US"
+0,0,0,1,2,-99,-99,-99,-99,1,0,-77,Nome,"United States, Ghana, South Africa, Sri Lanka, Brazil"
+0,0,0,1,4,-99,-99,2,-99,"1,3",0,Hurtigruten,Nome,"Canada,Thailand,Singapore,HongKong,Japan,Panama,Malaysia,Bonaise,Guadalape,Barbados,St.VincentandtheGrenadines,St.Lucia"
+1,-99,0,0,2,-99,-99,-99,-99,1,0,Holland America,Nome,Caribbean
+0,0,0,0,4,1,-99,"3,2",-99,-99,1,-77,Nome,"UnitedStates,Canada,Panama,Ecuador,Peru,Argentina,Brazil,Uruguay,FrenchNewGuiena,U.S.VirginIslands,Antarctica"
+0,0,0,1,2,-99,1,2,-99,3,0,Hurtigruten,Nome,"Norway,Iceland,Greenland,Canada"
+0,0,0,1,2,-99,-99,2,1,-99,1,Holland America,Nome,"South Africa, French Polynesia, New Zealand "
+0,0,1,1,4,1,-99,2,-99,-99,1,Holland America,Nome,"Egypt,Kenya,Tanzania,Zambia,Zimbabwe,Uganda,Rwanda,Malawi,Namibia,Botswana,South Africa,Vietnam,Philippines,Thailand,Indonesia,Australia,NewZealand,NewCaladonia,Tonga,Kiribati,Samoa,Fiji,French Polynesia"
+-99,-99,-99,-99,2,-99,-99,-99,-99,-99,1,Hurtigruten,Nome,-99
+0,0,0,0,2,-99,-99,-99,-99,-99,1,Holland America,Nome,-55
+0,0,1,1,2,-99,1,2,-99,3,0,Holland America,Nome,"Australia,UnitedStates,NewZealand"
+0,1,0,1,3,-99,-99,"3,2",-99,-99,1,Hurtigruten,Nome,"Canada,Spain,Italy, UnitedStates, Ecuador, France, Luxembourg, Austria"
+0,0,1,0,1,-99,-99,-99,-99,-99,1,Holland America,Nome,United States
+1,0,1,0,2,1,"1,4","3,2",-99,-99,1,Hurtigruten,Nome,Canada
+0,0,1,-99,3,-99,"1,3",2,2,-99,1,Hurtigruten,Nome,"Antarctica,Senegal,Gambia,UnitedKingdom,UnitedStates,Canada,Spain,Portugal,Italy,Chile"
+0,0,0,0,1,-99,-99,"1,2",-99,-99,1,Holland America,Nome,UnitedStates
+0,0,1,1,3,-99,"1,3,2,4","1,3,2,4",-99,-99,1,Holland America,Nome,"Japan, Thailand, Laos, Cambodia, Vietnam"
+0,0,1,1,1,-99,-99,-99,-99,1,0,Hurtigruten,Nome,UnitedStates
+0,0,0,1,4,-99,1,1,1,-99,1,Holland America,Nome,"Australia,NewZealand,SouthAfrica,Namibia,France,Spain,Italy,Greece,Bermuda,islandsinPacific"
+0,0,0,1,2,3,1,2,-99,-99,1,Hurtigruten,Nome,"UnitedStates,Canada,Greece,Spain"
+0,0,-99,0,2,-99,-99,-99,-99,-99,1,Hurtigruten,Nome,"Spain,Dubai,Canada"
+0,-99,0,0,2,-99,-99,-99,-99,-99,1,Holland America,Nome,"Northern Europe, many countries"
+0,0,0,1,2,-99,-99,-99,-99,"1,3,2",0,Hurtigruten,Nome,"UnitedKingdom,Sweden"
+0,0,0,1,2,-99,4,"1,2",-99,-99,1,Holland America,Nome,"Antartica, Tahiti, Marquessa "
+0,0,1,0,2,1,-99,-99,-99,-99,1,Hurtigruten,Nome,"Australia,CanaryIslands(Spain),UnitedKingdom"
+0,0,0,1,3,-99,-99,2,1,-99,1,Hurtigruten,Nome,"Austria, Cambodia, Laos, Vietnam, Taiwan, Germany, Canada, UnitedStates"
+0,0,0,0,2,-99,-99,-99,-99,-99,1,Holland America,Nome,"Bahamas,Mexico,Honduras"
+1,0,1,0,2,-99,-99,-99,-99,3,0,Hurtigruten,Nome,"UnitedKingdom,India,Germany,Scotland"
+0,0,1,1,2,-99,"1,3,2,4",-99,-99,-99,1,Hurtigruten,Nome,"Uganda/Zambia, India"
+0,0,0,1,2,-99,-99,-99,-99,-99,1,Holland America,Nome,United States
+0,0,0,1,2,1,-99,2,-99,-99,1,Hurtigruten,Nome,"Netherlands,Belgium,Switzerland"
+0,0,0,1,2,-99,"1,2","1,2",-99,-99,1,Hurtigruten,Nome,"Canada, UnitedStates"
+0,1,0,0,2,"1,3,2,4","1,3,2,4","1,3,2,4",-99,-99,1,Holland America,Nome,Australia 
+1,0,1,1,4,-99,1,2,-99,4,0,Hurtigruten,Nome,"Austria, United States, Canada, Mexico, Argentina, Chile, Iceland, Jamaica, Great Britain, France"
+0,0,0,-99,2,-99,-99,-99,-99,-99,1,Hurtigruten,Nome,"Maldives,UnitedStates"
+0,0,0,1,2,-99,1,2,-99,3,0,Holland America,Nome,"Australia,Canada"
+1,0,0,0,2,-99,-99,"3,2",-99,1,0,Hurtigruten,Nome,Ecuador
+-99,-99,-99,-99,4,-99,-99,"1,2",-99,-99,1,Holland America,Nome,"Spain,Portugal,France,Italy,Croatia,Bosnia,Slovenia,Montenegro,Greece,Turkey,Egypt,Mexico,Guatemela"
+0,-99,0,0,2,-99,-99,2,"1,3",-99,1,Holland America,Nome,-55
+0,0,0,0,2,-99,1,"3,2",-99,-99,1,Hurtigruten,Nome,"Australia,Japan"
+0,0,0,1,2,-99,-99,2,-99,"1,3",0,Hurtigruten,Nome,"United States, Panama, Barbados"
+0,0,0,1,3,-99,-99,"1,3,2",-99,-99,1,Holland America,Nome,"Australia, New Zealand, Papeete, Moorea, Tonga, French Polynesia  "
+0,0,0,0,3,1,-99,2,-99,-99,1,Holland America,Nome,"Scotland,Ireland,Wales,Norway,GreatBritain"
+0,0,0,1,2,-99,1,-99,-99,-99,1,Hurtigruten,Nome,"Canada, United States"
+0,0,0,0,3,-99,1,2,-99,-99,1,Hurtigruten,Nome,"Thailand, Cambodia, Multiple Caribbean Islands, Norway, Scotland, Ireland, Iceland"
+0,0,0,0,3,-99,-99,"1,2",-99,-99,1,Holland America,Nome,"Kenya,Tanzania,Mexico,Guatemala,Panama,Canada"
+0,0,0,0,2,1,-99,2,-99,3,0,Holland America,Nome,"Mexico,Canada"
+0,0,0,0,2,1,-99,-99,-99,-99,1,Hurtigruten,Nome,"England,Sweden"
+0,-99,0,0,2,-99,-99,-99,-99,-99,1,Holland America,Nome,Canada
+0,0,1,1,2,-99,1,2,-99,3,0,Hurtigruten,Nome,"Japan,UnitedStates,Canada,SouthKorea"
+0,-99,0,0,2,-99,-99,-99,-99,-99,1,Holland America,Nome,"Mexico, Canada, Caribbean "
+1,0,1,0,2,1,-99,2,-99,-99,1,Holland America,Nome,"Canada, United States"
+0,-99,0,0,2,-99,-99,-99,-99,-99,1,Holland America,Nome,"Norway, Sweden"
+1,0,1,1,2,-99,1,2,-99,3,0,Holland America,Nome,"NewZealand,UnitedStates"
+0,0,1,0,3,-99,-99,1,-99,-99,1,Holland America,Nome,"UnitedStates,Chile,Argentina,Uruguay,FalklandIslands,Brazil,Canada"
+0,0,0,0,2,-99,1,2,-99,-99,1,Holland America,Nome,"Canada,Fiji,UnitedStates"
+0,0,0,1,4,-99,-99,-99,4,"1,3,2",0,Holland America,Nome,"United States, Tonga, New Zealand, Australia, Polynesia, Bora Bora, Tahiti, Greenland, Iceland, Ireland, Canada"
+0,0,0,1,2,-99,-99,"1,3,2",-99,-99,1,Holland America,Nome,-55
+0,0,0,-99,2,-99,"1,4","3,2",-99,-99,1,Holland America,Nome,"Italy, Switzerland, Canada"
+0,0,0,0,2,-99,-99,"1,2",-99,-99,1,Holland America,Nome,"Canada,Mexico"
+-99,-99,-99,-99,2,-99,-99,-99,-99,-99,1,Hurtigruten,Nome,Norway
+0,0,0,0,1,1,"1,3",2,-99,-99,1,Holland America,Nome,UnitedStates
+0,0,0,0,2,-99,-99,-99,-99,-99,1,Holland America,Nome,"Australia, Greece, United Arab Emirates"
+0,0,0,1,2,-99,-99,-99,-99,1,0,Holland America,Nome,"Canada, Scotland"
+0,0,1,1,2,-99,1,2,-99,-99,1,Holland America,Nome,"France, United States, Netherlands, Monaco"
+1,0,1,1,2,-99,-99,-99,-99,-99,1,Holland America,Nome,-55
+0,0,1,0,2,1,"1,3,4","2,4",-99,-99,1,Holland America,Nome,"Panama, Columbia, Canada"
+0,0,1,1,1,-99,-99,-99,-99,-99,1,Holland America,Nome,United States
+0,0,0,1,2,-99,1,"3,2",-99,-99,1,Holland America,Nome,"Australia,Bali,Japan,UnitedStates"
+0,0,0,0,3,-99,-99,2,-99,3,0,Holland America,Nome,"Australia, New Zealand, South Africa, Portugal, Spain, Scandinavia "
+0,-99,0,1,4,1,3,2,-99,4,0,Holland America,Nome,"Canada, Japan, South Korea, Taiwan, Hong Kong, Thailand, Malaysia, Singapore, Philippines, Indonesia, Mexico"
+0,0,0,0,2,1,-99,2,3,-99,1,-88,Nome,"UnitedKingdom,France,Belgium,Holland,UnitedStates"
+0,0,0,1,4,-99,-99,2,-99,-99,1,Hurtigruten,Nome,"Canada, United Kingdom, Morocco, Malta, Egypt, Saudi Arabia, Oman, India, Sri Lanka, Qatar, Maldives, Seychelles, Kenya, Tanzania, Mayotte, Madagascar, Mauritus, Reunion, Mozambique, South Africa, naimbia, Togo, Ghana, Senegal, Spain, Portugal"
+0,0,0,0,3,-99,"1,3,2",-99,-99,-99,1,Holland America,Nome,"Spain,Portugal,Austria,Slovakia,CzechRepublic,Germany"
+0,0,0,1,3,-99,-99,"1,3,2",-99,-99,1,Holland America,Nome,"UnitedStates,Australia,NewZealand,Fiji,NewCaledonia,PacificIslands"
+-99,0,-99,-99,2,-99,-99,-99,-99,-99,1,Holland America,Nome,"St. Lucia, Barbados, Mexico, Belize"
+0,0,0,0,4,-99,-99,"1,2",-99,3,0,Holland America,Nome,"Indonesia,HongKong,Iceland,UnitedKingdom,Norway,Sweden,Estonia,Poland,Lithuania,Denmark,UnitedStates"
+-99,-99,-99,-99,3,-99,-99,-99,-99,-99,1,Holland America,Nome,"Greece, Spain, Canary Islands, Italy, Turkey, Portugal, Caribbean "
+-99,-99,-99,-99,1,-99,-99,-99,-99,-99,1,Holland America,Nome,United States
+0,-99,1,1,2,-99,-99,-99,-99,-99,1,Holland America,Nome,-99
+0,-99,1,-99,1,-99,-99,-99,-99,-99,1,Holland America,Nome,UnitedStates
+0,0,1,1,2,"1,2,4","1,2,4",-99,-99,-99,1,Holland America,Nome,"Canada, England, United States, Australia, New Zealand"
+-99,-99,-99,-99,2,-99,-99,-99,-99,-99,1,Holland America,Nome,-99
+1,0,1,0,3,1,2,-99,-99,3,0,Holland America,Nome,"PuertoRico,Bahamas,Mexico,Honduras,Dominica,GrandTurk"
+-99,-99,-99,-99,2,1,-99,"1,2",-99,3,0,Holland America,Nome,"Italy,Spain,Mexico,England"
+0,0,0,0,2,1,1,2,-99,-99,1,Hurtigruten,Nome,"Chile, Argentina, Canada, Alaska"
+1,0,0,1,3,1,-99,2,-99,-99,1,Holland America,Nome,"Italy, Greece, Croatia, Jordan, Israel, Cyprus, Bahamas, Turks and Caicos"
+-99,-99,-99,-99,2,1,-99,-99,-99,"3,2,4",0,Holland America,Nome,"UnitedStates,Canada"
+-99,-77,-99,-77,2,-99,-99,-99,-99,-99,1,Holland America,Nome,-99
+0,-77,1,-77,2,-99,1,2,-99,"3,4",0,Holland America,Nome,"United States, Mexico"
+0,-77,1,-77,3,1,-99,-99,2,3,0,Holland America,Nome,"Australia,NewZealand,FrenchPolynesia,Caribbean,Mexico,Canada"
+0,-77,0,-77,2,-99,1,2,-99,-99,1,Holland America,Nome,United States
+0,-77,0,-77,4,3,"1,4",2,-99,-99,1,Holland America,Nome,"Japan, South Korea, Taiwan, Tanzania, South Africa, Canada, Iceland, Greenland, Israel, Singapore, Indonesia, Thailand, Germany"
+0,-77,0,-77,2,-88,-88,-88,-88,-88,1,Holland America,Nome,-99
+0,-77,0,-77,2,-99,-99,-99,-99,-99,1,Holland America,Nome,"United States, Canada"
+1,-77,0,-77,2,-88,-88,-88,-88,-88,1,Holland America,Nome,Fiji
+0,-77,0,1,2,-99,-99,"1,2",-99,-99,1,Hurtigruten,Nome,"United States, Germany, Italy, France, Switzerland "
+0,-77,0,0,2,-99,-99,-99,-99,-99,1,Holland America,Nome,England 
+-99,-77,-99,-77,2,-99,-99,-99,-99,-99,1,Holland America,Nome,-99
+0,-77,0,-77,2,-99,-99,2,-99,"1,3",0,Holland America,Nome,"SoutheastAsia,Netherlands"
+0,-77,0,-77,2,-99,1,"3,2",-99,-99,1,Holland America,Nome,-99
+0,-77,0,-77,2,1,-99,"3,2",-99,4,0,Holland America,Nome,FrenchPolynesia
+-77,-77,-77,-77,3,-77,-77,-77,-77,-77,1,Holland America,Nome,"New Zealand, Australia, New Caledonia, Fiji, American Samoa, Hawaii, Canada"
+0,-77,0,-77,4,1,1,2,-99,-99,1,Holland America,Nome,"Norway, Sweden, Estonia, Latvia, Lithuania, Poland, Italy, France, Spain, Portugal, Argentina, Chile, United States "
+0,-77,0,-77,4,1,-99,2,1,-99,1,Holland America,Nome,"UnitedStates,Canada,Bermuda,Ireland,Guernsey,France,UK,Netherlands,Maderia,CanaryIslands,Spain,Gibraltar,Spain,Germany"
+0,-77,1,-77,3,"1,3",-99,2,-99,-99,1,Holland America,Nome,"UnitedStates,Norway,Iceland,Scotland,UnitedKingdom,Samoa,Fiji,Tahiti,France"
+1,-77,0,-77,2,1,-99,2,-99,-99,1,Holland America,Nome,-55
+-99,-77,0,-77,2,-99,-99,2,-99,-99,1,Holland America,Nome,-99
+-99,-77,-99,-99,2,1,-99,-99,-99,-99,1,Hurtigruten,Nome,-99
+-99,-77,-99,-99,2,-99,-99,-99,-99,-99,1,Holland America,Nome,"New Zealand, Australia"
+0,-77,0,-77,2,-99,-99,-99,-99,-99,1,Holland America,Nome,-99
+0,-77,0,-77,4,-99,1,"3,2",-99,-99,1,Holland America,Nome,"Japan, Egypt, Chile, Belize, Costa Rica, Uruguay, United States, Mexico, Falklands, Taiwan, Philippines, South Korea, Argetina, England "
+-99,-77,-99,-77,2,-99,-99,-99,-99,-99,1,Holland America,Nome,"Chili,Antarctica,Argentina"
+0,-77,0,-77,2,-99,"3,2","3,2",-99,-99,1,Holland America,Nome,"Canada, Chile, Argentina"
+0,-77,0,-77,2,-99,-99,2,-99,"1,3,4",0,Holland America,Nome,Mexico
+0,-77,0,-77,2,"1,4",2,-99,-99,3,0,Holland America,Nome,"Australia, United States"
+0,-77,0,-77,2,-99,-99,-99,-99,-99,1,Holland America,Nome,"Norway,Iceland,UnitedKingdom"
+0,-77,1,-77,2,-99,-99,2,4,1,0,Holland America,Nome,"Mexico, Honduras"
+-99,-77,-99,-77,2,-99,-99,-99,-99,-99,1,Holland America,Nome,-99
+0,-77,1,-77,2,-99,-99,2,-99,-99,1,Holland America,Nome,-99
+0,0,0,1,2,-99,-99,"1,2",-99,4,0,Hurtigruten,Nome,"Italy, Canada"
+1,-99,0,-99,2,-99,-99,2,-99,-99,1,Holland America,Nome,-99
+0,-77,1,-77,3,-99,-99,2,-99,"1,3",0,Holland America,Nome,"UnitedStates,Canada,Greenland,Iceland,Ireland,NorthernIreland,Netherlands,FrenchPolynesia"
+0,-77,0,-77,3,-99,1,2,-99,3,0,Holland America,Nome,"Galapagos,(Equator),CostaRica,Egypt,Greenland"
+-99,-99,-99,-99,2,-99,-99,-99,-99,-99,1,-77,Nome,"United States, Antigua"
+0,1,0,1,2,-99,1,3,-99,-99,1,-77,Nome,"Belgium,Netherlands,UnitedStates"
+1,0,1,0,2,-99,-99,2,-99,"1,3,4",0,-77,Nome,"Mexico, Costa Rica, Canada"
+1,0,1,0,3,1,-99,"3,2",-99,-99,1,-77,Nome,"Canada,Greenland,Iceland,St.Pierre-Migion,France,Brazil"
+0,0,1,0,4,"1,2",-99,"1,2",-99,-99,1,N/A,Anchorage,"Germany,Portugal,Switzerland,CzechRepublic,Poland,Andorra,Lichtenstein,England,Scotland,Etania,Latvia"
+-99,-99,-99,-99,2,-99,-99,-99,-99,-99,1,Holland America,Anchorage,Canada
+-99,-99,-99,-99,2,-99,-99,-99,-99,-99,1,Holland America,Anchorage,"Europe, United States, Canada, Australia "
+0,0,0,1,4,-99,-99,-99,-99,-99,1,Holland America,Anchorage,"Australia, New Zealand, Komodo Island, Iceland, Samoa, Fiji, Greenland, Ireland, Scotland, Canada"
+0,1,0,0,3,"1,3",-99,2,-99,-99,1,Indi Campers,Anchorage,"United States, Canada, Scotland, Wales, England, Portugal, Spain, Greece"
+1,0,1,0,2,-99,-99,-99,-99,-99,1,Holland America,Anchorage,-99
+0,0,0,0,2,-99,-99,-99,-99,-99,1,Holland America,Anchorage,-99
+-99,-99,-99,-99,2,-99,-99,2,-99,-99,1,Holland America,Anchorage,"South America, Antarctica"
+0,0,1,0,3,-99,-99,2,-99,"3,4",0,Holland America,Anchorage,"Singapore, Thailand, Malaysia, Vietnam, Hong Kong, Canada, United States"
+-99,-99,-99,-99,1,-99,-99,-99,-99,-99,1,Holland America,Anchorage,United States
+0,-99,1,0,2,1,3,2,-99,-99,1,Holland America,Anchorage,"Columbia,Panama,Mexico"
+0,0,1,0,2,-99,-99,"1,3,2",-99,-99,1,Holland America,Anchorage,-55
+0,0,0,0,3,-99,-99,-99,"1,3,2",-99,1,Holland America,Anchorage,"Canada, Costa Rica, Panama, Mexico, Columbia"
+0,0,0,0,2,-99,1,2,-99,-99,1,-99,Anchorage,"Australia, United States, Alaska"
+0,1,1,1,3,1,"1,4",2,-99,3,0,Holland America,Anchorage,"England, Canada, Ireland, Scotland, Colombia, Costa Rica, Mexico, Guatemala"
+0,0,0,1,2,-99,-99,"1,2",-99,-99,1,Holland America,Anchorage,"Australia,UK,Norway,Netherlands,UnitedStates"
+0,0,0,0,3,-99,-99,-99,-99,-99,1,Holland America,Anchorage,"Caribbean (many), Belgium (Zeebruge), England (Southhampton), France (Le Howre), Germany (Hamburg)"
+0,1,0,0,3,"1,3,2,4",-99,-99,-99,-99,1,Holland America,Anchorage,"Great Britain, France, Azorres (Portugal), Mexico, Canada, Greece, Turkey"
+0,0,0,0,2,-99,-99,2,1,-99,1,Holland America,Anchorage,"United States, El Salvador "
+0,0,1,0,2,4,1,2,-99,3,0,Holland America,Anchorage,Mexico
+0,1,1,0,2,-99,-99,2,4,"1,3",0,Holland America,Anchorage,United States
+1,0,1,0,1,1,-99,2,-99,-99,1,Holland America,Anchorage,United States
+0,0,1,0,3,-99,-99,2,-99,"1,3",0,Holland America,Anchorage,"Canada,Mexico,Greenland,Iceland,Scotland,Ireland,Netherlands,variousCarribeanIslands"
+0,0,1,0,3,-99,-99,2,-99,"1,3",0,Holland America,Anchorage,"Mexico,Honduras,Iceland,Greenland,TheNetherlands,Scotland,Ireland"
+0,0,0,0,2,1,"1,3","1,3,2",1,-99,1,"Holland America,Royal Caribbean",Seward,"Mexico, Canada"
+0,0,0,0,2,-99,-99,-99,-99,-99,1,N/A,Seward,"Mexico, United States, Canada"
+0,0,1,0,2,-99,-99,1,2,3,0,Celebrity,Seward,"Greece,Mexico,Italy"
+1,-99,-99,-99,2,-99,-99,-99,-99,-99,1,-99,Seward,UnitedStates
+0,-99,0,-99,2,-99,1,2,-99,"3,4",0,-88,Seward,"Austria, Italy"
+1,0,0,1,1,"1,3,2",-99,-99,-99,-99,1,Viking,Seward,UnitedStates
+0,0,1,0,2,-99,-99,2,-99,"1,3,4",0,-99,Seward,"Canada, United States"
+1,1,1,1,2,"1,3,2,4",-99,2,-99,-99,1,-88,Seward,"United States, Canada, Mexico"
+0,0,0,0,2,-99,-99,2,-99,-99,1,"Holland America,Celebrity",Seward,Canada
+0,0,0,-99,2,-99,-99,-99,-99,-99,1,-99,Seward,Canada
+0,0,0,0,2,-99,-99,1,-99,-99,1,-99,Seward,"SaintMaarten,UnitedStates"
+0,0,1,0,2,-99,-99,-99,-99,-99,1,Celebrity,Seward,U.S.
+0,0,1,0,1,-99,-99,4,-99,-99,1,-88,Seward,United States
+1,0,1,0,2,1,-99,-99,-99,-99,1,-88,Seward,"Canada,UnitedStates"
+1,0,1,0,1,3,1,2,-99,-99,1,Silverseas,Seward,UnitedStates
+1,0,1,0,2,-99,"1,3",2,-99,-99,1,-99,Seward,Canada
+0,0,0,1,3,"1,3,2",-99,-99,-99,-99,1,-88,Seward,"Germany,Switzerland,France,Portugal,Spain,Austria,Luxemburg,Neratherland"
+1,-99,0,-99,2,-99,-99,-99,-99,-99,1,-88,Seward,"Ireland,France,Italy,Canada"
+0,0,0,0,1,-99,-99,-99,-99,-99,1,N/A,Seward,UnitedStates
+0,0,0,0,2,-99,-99,-99,-99,-99,1,Holland America,Seward,Canada
+0,0,0,0,1,-99,-99,2,-99,1,0,-88,Seward,United States
+0,0,0,0,2,"1,3,4",-99,2,-99,-99,1,Holland America,Seward,"United States, Canada, Korea, Japan"
+1,0,1,0,2,-99,-99,2,-99,"1,3",0,N/A,Seward,Israel
+1,0,0,0,2,-99,-99,-99,-99,1,0,-88,Seward,Mexico
+0,0,1,0,3,-99,-99,"1,2",-99,-99,1,Royal Caribbean ,Seward,"UnitedStates,Canada,France,Germany,Switzerland,Italy"
+1,0,1,0,3,-99,1,"3,2",-99,4,0,N/A,Seward,"United States, Ireland, Vietnam, Philippines, Indonesia, Thailand, Japan"
+0,0,0,0,1,-99,-99,"1,3,2",-99,-99,1,N/A,Seward,UnitedStates
+1,0,1,0,3,-99,"1,4","3,2",-99,-99,1,no cruise-drove,Seward,"Singapore, Thailand, Vietnam, PI, Indo, Malaysia, Canada, Japan, United States"
+1,1,0,0,2,1,1,2,-99,3,0,-88,Seward,-55
+1,1,0,0,2,-99,-99,2,-99,-99,1,NA,Seward,-55
+1,0,0,1,3,-99,-99,"1,3,2",-99,-99,1,Princess,Seward,"Canada,Aruba,Mexico,UnitedKingdom,France,UnitedStates"
+0,1,0,0,2,-99,-99,2,-99,-99,1,-77,Nome,"United States, Canada"
+0,0,0,1,3,1,-99,-99,2,-99,1,-77,Nome,"Fiji, Australia, New Zealand, Tonga, Indonesia"
+0,-99,-99,-99,2,-99,-99,"1,2",-99,-99,1,-77,Nome,"The Netherlands, Germany, Canada, United States"
+0,0,0,0,3,-99,-99,"1,2",-99,3,0,-77,Nome,"Australia,NewZealand,Samoa,Fiji,Mexico"
+0,0,0,0,2,1,-99,2,-99,4,0,Hurtigruten,Nome,Thailand 
+0,0,0,0,2,-99,-99,-99,-99,-99,1,Hurtigruten,Nome,-99
+1,0,1,1,2,-99,-99,"1,3,2",-99,-99,1,Hurtigruten,Nome,"Senegal,United States"
+1,0,1,1,2,3,1,2,-99,-99,1,Hurtigruten,Nome,"Canada,Indonesia,Poland,United States"
+0,0,0,1,2,-99,1,2,-99,-99,1,Hurtigruten,Nome,"Germany,UnitedKingdom,United States,Canada"
+0,0,0,0,2,-99,3,"1,2",-99,-99,1,Hurtigruten,Nome,-99
+0,0,1,1,2,3,-99,2,-99,1,0,Hurtigruten,Nome,-99
+0,0,1,1,3,3,1,2,-99,-99,1,Hurtigruten,Nome,"Canada,Denmark,France,Austria,Netherlands,Argentina"
+0,0,0,1,2,1,1,2,-99,-99,1,Hurtigruten,Nome,"Spain,Switzerland,Canada"
+0,0,0,1,2,1,-99,2,-99,-99,1,Hurtigruten,Nome,"Canada,UnitedStates"
+0,0,0,0,2,-99,-99,2,1,-99,1,Hurtigruten,Nome,"Canada, Germany, Austria, Italy, Morocco"
+0,0,0,1,3,-99,-99,"1,2",3,-99,1,Hurtigruten,Nome,"Austra,Australia,NewZealand,Canada,UnitedStates,Germany"
+0,0,0,1,1,-99,-99,-99,-99,"1,3",0,Hurtigruten,Nome,-99
+0,0,1,1,3,3,1,2,-99,-99,1,Hurtigruten,Nome,"France,Germany,Norway,China,England,Switzerland"
+0,1,0,1,3,3,-99,2,"1,4",-99,1,Hurtigruten,Nome,"Germany, Argentina, Antarctica, Austria, Switzerland, Malta, Italy, Greece"
+0,0,1,1,2,1,-99,2,-99,3,0,Hurtigruten,Nome,"Croatia,Montenegro,Azores,Canada"
+0,0,1,1,2,-99,1,2,-99,-99,1,Hurtigruten,Nome,-55
+-99,-99,-99,-99,3,-99,-99,-99,-99,-99,1,Hurtigruten,Nome,"Australia,India,Singapore,SouthKorea,Germany,Austria,Hungary"
+0,0,0,1,2,-99,-99,"1,2",-99,-99,1,Hurtigruten,Nome,-99
+0,0,0,0,2,-99,"1,4",2,-99,-99,1,Hurtigruten,Nome,"Spain, Portugal, Denmark, Germany"
+-99,-99,-99,-99,3,-99,-99,-99,-99,-99,1,Hurtigruten,Nome,"Chile, Argentina, UK, Canada, US"
+-99,-99,-99,-99,2,-99,-99,-99,-99,-99,1,Hurtigruten,Nome,-99
+0,0,1,1,2,"1,3",1,2,2,-99,1,Hurtigruten,Nome,"Nepal,Spain,Seychelles"
+0,0,1,1,1,"1,3,2",-99,2,-99,-99,1,Hurtigruten,Nome,Canada
+0,0,0,1,2,-99,-99,"1,3,2",-99,-99,1,Holland America,Anchorage,"Mexico,Canada,UnitedStates"
+0,1,1,0,2,-99,-99,"1,2",-99,"1,3,4",0,"no cruise, also traveled from Colorado",Anchorage,"United States, Portugal"
+0,0,1,0,2,-99,-99,-99,-99,-99,1,Holland America,Anchorage,-55
+0,0,1,0,2,1,-99,2,-99,-99,1,Holland America,Anchorage,"South Pacific, United States"
+0,0,0,1,3,1,1,-99,-99,-99,1,Holland America,Anchorage,"Turkey,Bulgaria,Romania,Austria,Dubai,Hungary"
+0,0,0,1,2,-99,-99,-99,-99,-99,1,Holland America,Anchorage,"NE Canada (New Foundland, Labrador), Iceland, Greenland"
+1,0,1,0,2,-99,-99,2,-99,-99,1,Alaska Marine System,Seward,"Italy, Canada"
+1,0,1,0,2,-99,-99,-99,-99,-99,1,Alaska Ferry,Seward,Canada
+-99,-99,-99,-99,2,-99,-99,-99,-99,-99,1,Celebrity,Seward,-99
+1,0,1,0,2,-99,-99,2,-99,"1,3",0,Celebrity,Seward,"UnitedStates,Canada"
+1,0,0,0,2,-99,-99,2,-99,-99,1,-99,Seward,"United States, Canada"
+0,0,0,0,2,"1,3,2",-99,-99,-99,-99,1,Hurtigruten,Nome,"Germany,Switzerland"
+-99,-99,-99,-99,2,-99,-99,-99,-99,-99,1,Hurtigruten,Nome,"Peru, Italy"
+0,0,0,1,2,1,1,2,-99,3,0,Hurtigruten,Nome,"Canada,Norway,UnitedStates,Germany"
+0,0,0,0,2,"1,4",3,2,-99,-99,1,Hurtigruten,Nome,"Australia, Germany, French Polynesia"
+0,1,0,1,3,-99,6,"3,2",-99,1,0,Hurtigruten,Nome,"United States, Canada, Germany, Switzerland, Portugal, The Netherlands"
+0,0,1,1,2,-99,-99,"1,3,2",-99,-99,1,Hurtigruten,Nome,"UnitedStates,Canada,Iceland"
+0,0,1,1,2,1,-99,"3,2",-99,-99,1,Hurtigruten,Nome,"Canada,Iceland,Svalbard,Greenland"
+0,0,0,1,2,1,1,"3,2",-99,-99,1,Hurtigruten,Nome,-99
+0,0,0,0,3,-99,-99,2,-99,-99,1,-77,Nome,"Greenland, Iceland, Scotland, Canada, Holland"
+0,0,0,0,2,-99,1,2,-99,-99,1,Hurtigruten,Nome,"Canada, Norway, Denmark, Poland"
+0,0,1,1,3,-99,-99,"1,3,2",-99,-99,1,Hurtigruten,Nome,"UnitedStates,Canada,Ecuador,Austria,Italy,Croatia,Germany,Netherlands"
+0,0,0,0,2,-99,-99,"1,2",-99,-99,1,Hurtigruten,Nome,"GreatBritain,France,Austria"
+0,1,1,1,2,1,-99,-99,-99,-99,1,Hurtigruten,Nome,"UnitedStates,Italy,Austria,Switzerland"
+-99,-99,-99,-99,2,-99,-99,"1,3,2",-99,-99,1,Holland America,Anchorage,"Mexico,CentralAmerica,UnitedStates,Canada"
+0,0,0,0,2,-99,-99,-99,-99,-99,1,-99,Anchorage,-99
+1,0,1,0,1,-99,-99,2,-99,"1,3",0,None,Seward,UnitedStates
+-99,-99,-99,-99,2,-99,-99,-99,-99,-99,1,N/A,Seward,-55
+0,1,0,0,2,-99,-99,-99,-99,-99,1,-99,Seward,Canada
+0,0,0,0,2,-99,-99,2,-99,-99,1,-99,Seward,United States
+0,1,0,0,2,-99,-99,"1,2",-99,-99,1,-99,Seward,"Cuba, Canada, United States"
+1,0,1,0,2,-99,-99,2,-99,"1,4",0,-99,Seward,Canada
+0,0,1,0,2,-99,-99,2,-99,-99,1,Summit,Seward,-99
+0,0,1,0,2,-99,-99,"1,3,2",-99,-99,1,-99,Seward,"SouthKorea,United States"
+1,1,0,0,1,-99,-99,-99,-99,"1,2,4",0,N/A,Seward,United States
+0,0,1,0,2,-99,-99,2,1,"1,3",0,Celebrity,Seward,"Greece,Mexico"
